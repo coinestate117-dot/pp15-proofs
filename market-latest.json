@@ -1,13 +1,13 @@
 {
   "source": "PP15.ONE",
-  "timestamp": "2026-07-13T22:19:44.200Z",
+  "timestamp": "2026-07-14T10:55:00.733Z",
   "currency": "PPC",
-  "pricePerM2PPC": 16.54,
+  "pricePerM2PPC": 16.55,
   "athPricePerM2PPC": 17.06,
-  "volume24hPPC": 82.46,
-  "liquidityPPC": 16672.32,
+  "volume24hPPC": 99,
+  "liquidityPPC": 16698.95,
   "totalSupplyM2": 400000,
-  "cumulativeSoldM2": 1008,
-  "availableSupplyM2": 398992,
+  "cumulativeSoldM2": 1009,
+  "availableSupplyM2": 398991,
   "islands": 35
 }
