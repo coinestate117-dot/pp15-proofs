@@ -1,0 +1,18 @@
+{
+  "snapshotId": "cmru1qrnm0008b7ibuv0oxfa6",
+  "timestamp": "2026-07-21T02:40:46.979Z",
+  "transactionCount": 2728,
+  "latestTxId": "cmru1pviu0007b7ibrvg9duh1",
+  "latestContentHash": "Mz2Zk7Doj+0ljcvonNbzhYmsa+GC/uBV5YzB7+nr9tM=",
+  "snapshotHash": "/MYsJTFZpT4D3d5tBQ/5RluwMavX/WR2MzozpNVSehY=",
+  "snapshotSignature": "SFzLDNvglnHu/eRzwfCQmujS8gGH+wjli9Si0dzvdwoYzP/RZvs8bq3cgdGbjdSUfjvmDep891ESxZSfl4bbAw==",
+  "chainStatus": {
+    "type": "recent",
+    "valid": true,
+    "lastValidated": "2026-07-21T02:30:00.133Z",
+    "transactionsChecked": 100
+  },
+  "signedBy": "dSfTsIw3UXImjUwBWAlK5PBL66SwA8yAxu5VbQa+cOk=",
+  "algorithm": "Ed25519 over SHA-256(contentHash chain)",
+  "verify": "https://pp15.one/api/snapshots/cmru1qrnm0008b7ibuv0oxfa6"
+}
